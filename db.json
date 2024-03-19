@@ -48,5 +48,22 @@
       "insta": "amanda.milan",
       "descricao": "Professora de Violão, Teclado e Contra-Baixo"
     }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "avatar": "../../assets/tutores/amanda-milan.jpg",
+      "nome": "Amanda",
+      "funcao": "Violão,Teclado e Contra-Baixo",
+      "password": "84137665",
+      "email": "amandamilan@gmail.com",
+      "contact": "556984137665",
+      "permissoes": [
+        "aulas",
+        "events"
+      ],
+      "insta": "amanda.milan",
+      "descricao": "Professora de Violão, Teclado e Contra-Baixo"
+    }
   ]
 }
