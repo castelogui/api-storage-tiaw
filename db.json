@@ -70,5 +70,31 @@
       "insta": "samuelmatos.s",
       "id": "mL76djV"
     }
+  ],
+  "aulas": [
+    {
+      "instrumento": "Bateria",
+      "img": "../assets/instrumentos/bateria.png",
+      "detalhes": "Aula de bateria nível básico",
+      "niveis": [
+        true,
+        true,
+        false
+      ],
+      "valor": 120,
+      "id": 1
+    },
+    {
+      "instrumento": "Violão",
+      "img": "../assets/instrumentos/violão.png",
+      "detalhes": "Aula de violão nível básico",
+      "niveis": [
+        true,
+        true,
+        false
+      ],
+      "valor": 120,
+      "id": 2
+    }
   ]
 }
