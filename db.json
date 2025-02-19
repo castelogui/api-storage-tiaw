@@ -39,10 +39,19 @@
       "id": "2",
       "avatar": "../../assets/tutores/amanda-milan.jpg",
       "nome": "Amanda",
-      "funcao": "Violão,Teclado e Contra-Baixo",
+      "funcao": "Violão, Teclado e Contra-Baixo",
       "contact": "556984137665",
       "insta": "amanda.milan",
       "descricao": "Professora de Violão, Teclado e Contra-Baixo"
+    },
+    {
+      "id": "2",
+      "avatar": "../../assets/tutores/guilherme-castelo.jpg",
+      "nome": "Guilherme Castelo",
+      "funcao": "Violão e Bateria",
+      "contact": "556999071519",
+      "insta": "castelo.gui",
+      "descricao": "Professor de Violão e Bateria"
     }
   ],
   "users": [
@@ -53,7 +62,7 @@
       "contact": "556984137665",
       "descricao": "",
       "permissao": "operador",
-      "password": "84137665",
+      "password": "",
       "status": "true",
       "insta": "amanda.milan",
       "id": "1"
@@ -65,7 +74,7 @@
       "contact": "556981062874",
       "descricao": "",
       "permissao": "administrador",
-      "password": "123456",
+      "password": "",
       "status": "true",
       "insta": "samuelmatos.s",
       "id": "mL76djV"
