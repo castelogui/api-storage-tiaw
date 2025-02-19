@@ -29,27 +29,36 @@
     {
       "id": "1",
       "avatar": "../../assets/tutores/samuel-bateria-01.jpeg",
-      "nome": "Samuca",
+      "nome": "Samuel Matos",
       "funcao": "Bateria, Percussão e Musicalização",
-      "contact": "556981062874",
+      "contact": "5569981062874",
       "insta": "samuelmatos.s",
       "descricao": "Professor de Bateria, Percussão e Musicalização"
     },
     {
       "id": "2",
       "avatar": "../../assets/tutores/amanda-milan.jpg",
-      "nome": "Amanda",
+      "nome": "Amanda Milan",
       "funcao": "Violão, Teclado e Contra-Baixo",
-      "contact": "556984137665",
+      "contact": "5569984137665",
       "insta": "amanda.milan",
       "descricao": "Professora de Violão, Teclado e Contra-Baixo"
     },
     {
-      "id": "3",
-      "avatar": "../../assets/tutores/guilherme-violao-01.jpeg",
+      "id": "4",
+      "avatar": "../../assets/tutores/fernando-zeri.jpg",
+      "nome": "Fernando Zeri",
+      "funcao": "Violão, Guitarra, Contra-Baixo e Bateria",
+      "contact": "5569993964368",
+      "insta": "fernandozeri",
+      "descricao": "Professor de Violão, Guitarra, Contra-Baixo e Bateria"
+    },
+    {
+      "id": "4",
+      "avatar": "../../assets/tutores/guilherme-castelo.jpg",
       "nome": "Guilherme Castelo",
       "funcao": "Violão e Bateria",
-      "contact": "556999071519",
+      "contact": "5569999071519",
       "insta": "castelo.gui",
       "descricao": "Professor de Violão e Bateria"
     }
