@@ -45,7 +45,7 @@
       "descricao": "Professora de Violão, Teclado e Contra-Baixo"
     },
     {
-      "id": "4",
+      "id": "3",
       "avatar": "../../assets/tutores/fernando-zeri.jpg",
       "nome": "Fernando Zeri",
       "funcao": "Violão, Guitarra, Contra-Baixo e Bateria",
@@ -53,16 +53,6 @@
       "insta": "fernandozeri",
       "descricao": "Professor de Violão, Guitarra, Contra-Baixo e Bateria"
     }
-    /**
-    #{
-    #  "id": "4",
-    #  "avatar": "../../assets/tutores/guilherme-castelo1x1.jpg",
-    #  "nome": "Guilherme Castelo",
-    #  "funcao": "Violão e Bateria",
-    #  "contact": "5569999071519",
-    #  "insta": "castelo.gui",
-    #  "descricao": "Professor de Violão e Bateria"
-    #}**/
   ],
   "users": [
     {
